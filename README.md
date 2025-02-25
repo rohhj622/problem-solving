@@ -1,2 +1,1 @@
-# problem-solving
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 이직엔 관심 없지만 재밌어보여서 하는 PS
